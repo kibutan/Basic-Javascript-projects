@@ -1,3 +1,5 @@
+
+
 const simpleQuote = [
     {
         name:"quote author1",
